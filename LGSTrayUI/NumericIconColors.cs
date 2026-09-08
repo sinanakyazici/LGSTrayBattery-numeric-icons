@@ -16,4 +16,3 @@ public static class NumericIconColors
 
     public static string Format(Color color) => $"#{color.R:X2}{color.G:X2}{color.B:X2}";
 }
-
