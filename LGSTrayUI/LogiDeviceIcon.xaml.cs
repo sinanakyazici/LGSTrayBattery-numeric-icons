@@ -1,4 +1,4 @@
-using Hardcodet.Wpf.TaskbarNotification;
+﻿using Hardcodet.Wpf.TaskbarNotification;
 using LGSTrayCore;
 using LGSTrayPrimitives;
 using Microsoft.Extensions.Options;
@@ -141,4 +141,3 @@ namespace LGSTrayUI
         }
     }
 }
-
