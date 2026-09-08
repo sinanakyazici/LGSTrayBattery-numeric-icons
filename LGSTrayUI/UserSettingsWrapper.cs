@@ -1,4 +1,4 @@
-using CommunityToolkit.Mvvm.ComponentModel;
+﻿using CommunityToolkit.Mvvm.ComponentModel;
 using System.Collections.Specialized;
 
 namespace LGSTrayUI
@@ -86,4 +86,3 @@ namespace LGSTrayUI
         }
     }
 }
-
