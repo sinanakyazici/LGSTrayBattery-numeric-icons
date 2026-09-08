@@ -207,4 +207,3 @@ internal sealed class NumericColorEditor : StackPanel
             _hex.Text = NumericIconColors.Format(dialog.Color);
     }
 }
-
