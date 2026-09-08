@@ -1,4 +1,4 @@
-# LGS Tray Battery
+﻿# LGS Tray Battery
 
 A rewrite/combination of my two programs [LGSTrayBattery](https://github.com/andyvorld/LGSTrayBattery) and [LGSTrayBattery_GHUB](https://github.com/andyvorld/LGSTrayBattery_GHUB), which should allow for interaction via both the native HID and Logitech GaminG Hub websockets.
 
@@ -160,4 +160,3 @@ This project began as a task with me messing around with my mouse for battery tr
     - Mouse, By projecthayat, ID, In the Technology & computer hardware Collection
     - Keyboard, By HideMaru, ID, In the Electronic BL.2 Collection
     - Headphones, By Peter Lakenbrink, DE, In the School and Online Learning Glyph Collection
-
