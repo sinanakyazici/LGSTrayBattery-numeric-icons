@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
     <OutputType>WinExe</OutputType>
   </PropertyGroup>
@@ -81,4 +81,3 @@
   </ItemGroup>
 
 </Project>
-
