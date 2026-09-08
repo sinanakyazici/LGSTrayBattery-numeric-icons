@@ -31,4 +31,3 @@ public static class DeviceNumericColorStore
         return JsonSerializer.Serialize(entries);
     }
 }
-
