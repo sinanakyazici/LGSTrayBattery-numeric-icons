@@ -1,4 +1,4 @@
-using LGSTrayCore;
+﻿using LGSTrayCore;
 using LGSTrayUI.Properties;
 using System;
 using System.Drawing;
@@ -149,4 +149,3 @@ namespace LGSTrayUI
         }
     }
 }
-
