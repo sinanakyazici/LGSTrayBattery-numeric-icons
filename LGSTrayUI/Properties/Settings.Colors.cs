@@ -33,4 +33,3 @@ internal sealed partial class Settings
         set => this[nameof(NumericBackgroundColor)] = value;
     }
 }
-
