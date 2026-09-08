@@ -39,6 +39,9 @@ Depending on the number of devices selected in the context menu, multiple device
 
 Display the current battery percentage as a number.
 
+Numeric icon text color, background color, and font weight can be customized
+globally or per device from `Numeric Icon Appearance...` in the tray menu.
+
 *In numerical display mode, charging status will not be displayed*
 
 ### Reactive Icons
@@ -157,3 +160,4 @@ This project began as a task with me messing around with my mouse for battery tr
     - Mouse, By projecthayat, ID, In the Technology & computer hardware Collection
     - Keyboard, By HideMaru, ID, In the Electronic BL.2 Collection
     - Headphones, By Peter Lakenbrink, DE, In the School and Online Learning Glyph Collection
+
